@@ -3,3 +3,15 @@
   font-size: 12px;
   font-style: italic;
 }
+
+.slcmplus-gpa{
+  color: #0b5ed7;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.slcmplus-credits{
+  color: #1f2937;
+  font-size: 14px;
+  font-weight: 600;
+}

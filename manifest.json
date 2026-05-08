@@ -8,7 +8,8 @@
     {
       "matches": [
         "https://mujslcm.jaipur.manipal.edu/Student/Academic/AttendanceSummaryForStudent",
-        "https://mujslcm.jaipur.manipal.edu/Student/Academic/InternalMarkForStudent"
+        "https://mujslcm.jaipur.manipal.edu/Student/Academic/InternalMarkForStudent",
+        "https://mujslcm.jaipur.manipal.edu/Student/Academic/GradesForStudent"
       ],
       "js": ["content.js"],
       "css": ["styles.css"]
@@ -16,8 +17,8 @@
   ],
 
   "icons": {
-    "16": "icon.png",
-    "48": "icon.png",
-    "128": "icon.png"
+    "16": "./images/icon.png",
+    "48": "./images/icon.png",
+    "128": "./images/icon.png"
   }
 }

@@ -4,12 +4,16 @@ A Chrome extension for MUJ students that enhances the SLCM experience by providi
 
 ---
 
+## Preview
+  - Total marks shown: 
+![Logo](./images/prev1.png)
+
 ## Features
 
 - Shows how many classes can be missed while maintaining the required 75% attendance
 - Automatically calculates and displays total marks from tables
+- Shows the Semester Wise GPA on the grades page
 - Integrates directly into the MUJ SLCM portal
-- Lightweight and simple to use
 
 ---
 
